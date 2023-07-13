@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216" height="216" viewBox="0 0 216 216">
+  <defs>
+    <filter id="Rectangle_35" x="0" y="0" width="216" height="216" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_30" data-name="Group 30" transform="translate(-451.645 -122.241)">
+    <g id="Group_29" data-name="Group 29">
+      <g transform="matrix(1, 0, 0, 1, 451.64, 122.24)" filter="url(#Rectangle_35)">
+        <rect id="Rectangle_35-2" data-name="Rectangle 35" width="216" height="216" rx="45.303" fill="#015272"/>
+      </g>
+    </g>
+    <path id="Path_3" data-name="Path 3" d="M596.972,144.413c-10.408,18.04-20.816,36.081-31.385,54.4h59.042L523.2,316.069l-.293-.161c7.357-27.253,14.715-54.506,22.127-81.961h-50.37q15.727-44.961,31.321-89.534Zm-48.7,64.422,31.285-54.3c-.583-.04-.907-.081-1.23-.081q-21.951,0-43.9-.03c-1.134,0-1.495.46-1.834,1.431Q520.973,189.136,509.3,222.4c-.155.443-.24.911-.419,1.61h49.21c-4.727,17.515-9.386,34.781-14.046,52.048l.388.165,58.28-67.385Z" fill="#fff" stroke="#fafcfc" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

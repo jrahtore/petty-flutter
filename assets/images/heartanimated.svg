@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g filter="url(#filter0_b)">
+        <rect width="64" height="64" rx="32" fill="pink" fill-opacity="0.3"/>
+    </g>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M36.9675 22C34.3062 22 31.645 24.6612 31.645 24.6612C31.645 24.6612 28.9837 22 26.3225 22C23.6612 22 21 23.3306 21 28.6531C21 36.6368 30.7335 42.5501 31.645 41.9593C32.5564 42.5501 42.2899 36.6368 42.2899 28.6531C42.2899 23.3306 39.6287 22 36.9675 22Z" stroke="red" fill="red" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <defs>
+        <filter id="filter0_b" x="-8" y="-8" width="80" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feGaussianBlur in="BackgroundImage" stdDeviation="4"/>
+            <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+        </filter>
+    </defs>
+</svg>
